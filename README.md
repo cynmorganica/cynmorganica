@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cynmorganica
-- 👀 I’m interested in information architecture, specifically in the creation of web ontologies and taxonomies, and the tools that can create them. I'm also interested in art, content strategy, systems design, human-centric design engineering...lots of stuff.
+- 👀 I’m interested in information science particularly knowledge management and the creation of taxonomies and ontologies. Also interested in information architecture.
 - 🌱 I’m currently learning fluent, hindi, and Japanese enameling techniques
 - 📫 Reach me through github
 
